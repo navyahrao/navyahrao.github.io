@@ -6,6 +6,7 @@
       min-height: 100vh;
       background: url("./assets/images/background.png");
       animation: gradientAnimation 20s ease infinite;
+      padding-bottom: 50px;
     }
   
   /* Keyframes for background animation */
