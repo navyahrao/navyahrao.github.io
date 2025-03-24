@@ -73,7 +73,7 @@ const Experience = () => {
         <div className='text-tiny text-gray-lite md:ml-auto'>Aug 2014 - Nov 2016</div>
       </div>
       <div className='rounded-lg py-4 pl-5 pr-3 space-y-2 bg-sky-50'>
-       <h3 className='font-medium text-md'>Diner Help</h3>
+       <h3 className='font-medium text-md'>Fresh Direct</h3>
         <ul role='list' className='list-disc pl-6'>
           <li>Built the web-based application using HTML5, CSS3, Bootstrap, and scripting languages such as JavaScript, jQuery, AngularJS</li>
           <li>Performed code validation to check for proper structure to meet industry standards and compatibility with various browsers and devices</li>
