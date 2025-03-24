@@ -100,6 +100,9 @@
 .icon-github {
   background-image: url(../assets/images/github.svg);
 }
+.icon-githubLink {
+  background-image: url(../assets/images/githubLink.svg);
+}
 .icon-bitbucket {
   background-image: url(../assets/images/bitbucket.svg);
 }

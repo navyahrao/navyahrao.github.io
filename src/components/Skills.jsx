@@ -6,7 +6,7 @@ const Skills = () => {
       <h2 className='font-medium text-2xl space-x-2 mb-4'>Skills</h2>
 
       {/* Frontend */}
-      <div className='py-4 pl-5 pr-3 space-y-2 mb-4 rounded-lg bg-purple-50'>
+      <div className='py-4 pl-5 pr-3 space-y-2 mb-4 rounded-lg bg-purple-50 shadow-md'>
         <h3 className='text-lg font-medium mb-4'>Frontend</h3>
         <div className='grid grid-cols-3 md:grid-cols-6 lg:grid-cols-8 xl:grid-cols-12 space-x-2 content-center gap-x-4 gap-y-8'>
           <div className='place-self-center'>
@@ -61,7 +61,7 @@ const Skills = () => {
       </div>
 
       {/* Backend API */}
-      <div className='py-4 pl-5 pr-3 space-y-2 mb-4 rounded-lg bg-purple-50'>
+      <div className='py-4 pl-5 pr-3 space-y-2 mb-4 rounded-lg bg-purple-50 shadow-md'>
         <h3 className='text-lg font-medium mb-4'>Backend API Integration</h3>
         <div className='grid grid-cols-3 md:grid-cols-6 lg:grid-cols-8 space-x-2 content-center gap-x-4 gap-y-8'>
           <div className='place-self-center'>
@@ -96,7 +96,7 @@ const Skills = () => {
       </div>
 
       {/* Testing */}
-      <div className='py-4 pl-5 pr-3 space-y-2 mb-4 rounded-lg bg-purple-50'>
+      <div className='py-4 pl-5 pr-3 space-y-2 mb-4 rounded-lg bg-purple-50 shadow-md'>
         <h3 className='text-lg font-medium mb-4'>Testing</h3>
         <div className='grid grid-cols-3 md:grid-cols-6 lg:grid-cols-8 space-x-2 content-center gap-x-4 gap-y-8'>
           <div className='place-self-center'>
@@ -123,7 +123,7 @@ const Skills = () => {
       </div>
 
        {/* Tools */}
-       <div className='py-4 pl-5 pr-3 space-y-2 mb-4 rounded-lg bg-purple-50'>
+       <div className='py-4 pl-5 pr-3 space-y-2 mb-4 rounded-lg bg-purple-50 shadow-md'>
         <h3 className='text-lg font-medium mb-4'>Tools</h3>
         <div className='grid grid-cols-3 md:grid-cols-6 lg:grid-cols-10 space-x-2 content-center gap-x-4 gap-y-8'>
           <div className='place-self-center'>
@@ -166,7 +166,7 @@ const Skills = () => {
       </div>
 
         {/* Observability */}
-        <div className='py-4 pl-5 pr-3 space-y-2 mb-4 rounded-lg bg-purple-50'>
+        <div className='py-4 pl-5 pr-3 space-y-2 mb-4 rounded-lg bg-purple-50 shadow-md'>
         <h3 className='text-lg font-medium mb-4'>Observability</h3>
         <div className='grid grid-cols-3 md:grid-cols-6 lg:grid-cols-8 space-x-2 content-center gap-x-4 gap-y-8'>
           <div className='place-self-center'>

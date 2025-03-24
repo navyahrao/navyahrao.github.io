@@ -2,7 +2,7 @@ const Education = () => {
   return (       
     <div className='mb-6'>
       <h2 className='font-medium text-2xl space-x-2 mb-4'>Education</h2>
-      <div className='py-4 pl-5 pr-3 space-y-2 mb-4 rounded-lg bg-indigo-50'>
+      <div className='py-4 pl-5 pr-3 space-y-2 mb-4 rounded-lg bg-indigo-50 shadow-md'>
         <h3 className='text-lg'>Masters Degree</h3>
         <div className='grid grid-cols-1 md:grid-cols-2'>
           <div>
