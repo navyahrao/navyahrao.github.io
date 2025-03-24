@@ -1,0 +1,129 @@
+.icon {
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center;
+  height: 50px;
+}
+.icon-css {
+  background-image: url(../assets/images/css.svg);
+}
+.icon-html {
+  background-image: url(../assets/images/html.svg);
+}
+.icon-react {
+  background-image: url(../assets/images/react.svg);
+}
+.icon-redux {
+  background-image: url(../assets/images/redux.svg);
+}
+.icon-javascript {
+  background-image: url(../assets/images/javascript.svg);
+}
+.icon-typescript {
+  background-image: url(../assets/images/typescript.svg);
+}
+.icon-tailwind {
+  background-image: url(../assets/images/tailwind.svg);
+}
+.icon-materialui {
+  background-image: url(../assets/images/materialui.svg);
+}
+.icon-bootstrap {
+  background-image: url(../assets/images/bootstrap.svg);
+}
+.icon-nextjs {
+  background-image: url(../assets/images/nextjs.svg);
+}
+.icon-figma {
+  background-image: url(../assets/images/figma.svg);
+}
+.icon-eslint {
+  background-image: url(../assets/images/eslint.svg);
+}
+.icon-restapi {
+  background-image: url(../assets/images/restapi.png);
+}
+.icon-graphql {
+  background-image: url(../assets/images/graphql.svg);
+}
+.icon-webhooks {
+  background-image: url(../assets/images/webhooks.svg);
+}
+.icon-oauth {
+  background-image: url(../assets/images/oauth.svg);
+}
+.icon-jwt {
+  background-image: url(../assets/images/jwt.png);
+}
+.icon-nodejs {
+  background-image: url(../assets/images/nodejs.svg);
+}
+.icon-django {
+  background-image: url(../assets/images/django.svg);
+}
+.icon-jest {
+  background-image: url(../assets/images/jest.svg);
+}
+.icon-rtl {
+  background-image: url(../assets/images/rtl.png);
+}
+.icon-cypress {
+  background-image: url(../assets/images/cypress.svg);
+}
+.icon-testcafe {
+  background-image: url(../assets/images/testcafe.svg);
+}
+.icon-storybook {
+  background-image: url(../assets/images/storybook.svg);
+}
+.icon-npm {
+  background-image: url(../assets/images/npm.svg);
+}
+.icon-yarn {
+  background-image: url(../assets/images/yarn.svg);
+}
+.icon-webpack {
+  background-image: url(../assets/images/webpack.svg);
+}
+.icon-vite {
+  background-image: url(../assets/images/vite.svg);
+}
+.icon-jenkins {
+  background-image: url(../assets/images/jenkins.svg);
+}
+.icon-spinnaker {
+  background-image: url(../assets/images/spinnaker.svg);
+}
+.icon-git {
+  background-image: url(../assets/images/git.svg);
+}
+.icon-github {
+  background-image: url(../assets/images/github.svg);
+}
+.icon-bitbucket {
+  background-image: url(../assets/images/bitbucket.svg);
+}
+.icon-gtm {
+  background-image: url(../assets/images/gtm.svg);
+}
+.icon-ga {
+  background-image: url(../assets/images/ga.svg);
+}
+.icon-datadog {
+  background-image: url(../assets/images/datadog.svg);
+}
+.icon-newrelic {
+  background-image: url(../assets/images/newrelic.svg);
+}
+.icon-sentry {
+  background-image: url(../assets/images/sentry.svg);
+}
+.icon-linkedin {
+  background-image: url(../assets/images/linkedin.svg);
+}
+.icon-email {
+  background-image: url(../assets/images/email.svg);
+}
+.icon-user {
+  background-image: url(../assets/images/user.svg);
+}
